@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giopato02&label=Profile%20views&color=0e75b6&style=flat" alt="giopato02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giopato02" alt="giopato02" /></a> </p>
-
 - 🔭 I’m currently working on **The NullState App**
 
 - 🌱 I’m currently learning **Flutter, Dart and Java**
