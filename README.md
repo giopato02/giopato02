@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giopato02" alt="giopato02" /></a> </p>
 
-- 🔭 I’m currently working on **NullState app**
+- 🔭 I’m currently working on **The NullState App**
 
 - 🌱 I’m currently learning **Flutter, Dart and Java**
 
-- 👯 I’m looking to collaborate on **Software development projects**
+- 👯 I’m looking to collaborate on **Software Development projects**
 
-- 📫 How to reach me **giorgipataridze5kl@gmail.com**
+- 📫 Reach me at: **giorgipataridze5kl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
