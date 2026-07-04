@@ -12,7 +12,7 @@
 I'm a 3rd-year Computer Science student at **Constructor University** in Bremen, Germany. I am passionate about building tools that people are actually going to use. I love providing products that not only fulfill their purpose, but also have numerous features that optimize user experiences.
 
 - 🔭 **Recently Built:** [The NullState App] (A Flutter-based productivity tool with MVC architecture and Hive NoSQL).
-- 🚀 **Currently Exploring:** WebSockets, Data Flow Analysis, and Kotlin SDK Design.
+- 🚀 **Currently Exploring:** Machine Learning, Websockets, React, and Kotlin SDK Design.
 - 🎓 **Main Coursework:** Data Structures & Algorithms, Operating Systems, Databases, Software Engineering, Artificial Intelligence.
 - 📫 **Reach me at:** giorgipataridze5kl@gmail.com
 
